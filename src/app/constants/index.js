@@ -113,7 +113,7 @@ export const myProjects = [
     desc: 'E-Commify, crafted for the GIAIC Academy Hackathon, is a Next.js e-commerce platform with Sanity CMS and Tailwind CSS. Features include add-to-cart, dynamic routing, real-time cart updates, and a secure checkout page. Built for speed and scalability, it highlights responsive UI/UX and full-stack integration under hackathon constraints.',
     subdesc:
       'Built with Next.js (SSR/ISR), Sanity for real-time content, and Tailwind for styling. Key features: cart management, dynamic product pages, and checkout flow. Developed for GIAIC’s hackathon to demonstrate rapid, user-centric solutions.',
-    href: 'https://hackathon-ecommerce-website-e4p2.vercel.app/',
+    href: 'https://hackathon-ecommerce-website-2x1l.vercel.app/',
     texture: '/textures/projects/hackathon.mp4',
     logo: '/assets/project-logo4.png',
     logoStyle: {
